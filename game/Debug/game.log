@@ -1,0 +1,5 @@
+﻿  sq.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\..\Desktop\Project\sq.cpp': No such file or directory
+  imageloader.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\..\Desktop\New folder\GameProject\imageloader.cpp': No such file or directory
+  Generating Code...
